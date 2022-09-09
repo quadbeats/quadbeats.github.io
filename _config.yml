@@ -1,16 +1,13 @@
 # Site settings
-name: name
+name: quadbeats
 email: email
 url: url
 description: "A blog and a portfolio"
 author: "author"
-title: "BlogFolio"
+title: "조성규"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
-
-twitter:
-  username: username
+  username: quadbeats
