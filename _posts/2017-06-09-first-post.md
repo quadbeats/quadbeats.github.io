@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World!"
-date: 2017-06-09 12:00:00 -0500
+title: "MLProject Test"
+
 ---
 
-Hey, it's just my first post!
+Github Home page test for MLP
 
 From [http://slipsum.com/lite/](http://slipsum.com/lite/):
 
